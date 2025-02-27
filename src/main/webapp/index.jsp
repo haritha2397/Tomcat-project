@@ -69,3 +69,4 @@
 </body>
 </html>
 </html>
+<p>&copy; 2023 Interior Design Studio. All rights reserved.</p>
