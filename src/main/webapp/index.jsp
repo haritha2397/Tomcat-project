@@ -11,8 +11,6 @@
   <header class="hero">
     <div class="hero-content">
       <h1>Welcome to Home Of Beauty</h1>
-      <h2>Welcome to Home Of LOve</h2>
-      <h2>Welcome to New World!</h2>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
