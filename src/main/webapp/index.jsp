@@ -80,6 +80,8 @@
             <div id="cart-total">
                 <p>Total: ₹<span id="total-amount">0</span></p>
                 <button id="checkout-btn">Proceed to Checkout</button>
+ <p>Total: ₹<span id="total-amount">0</span></p>
+                <button id="checkout-btn">Proceed to Checkout</button
             </div>
         </div>
     </div>
