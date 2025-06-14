@@ -4,6 +4,6 @@
 
 </head>
 <body>
-    <h1> style="color: red; font-size:40px;" align="center">HEY I AM BHANU</h1>
+        <h1 style="color: red; font-size:40px;" align="center">HEY I AM BHANU</h1>
 </body>
 </html>
