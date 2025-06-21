@@ -5,7 +5,8 @@
 </head>
 <body>
         <h1 style="color: red; font-size:40px;" align="center">HEY I AM BHANU</h1>
-        <h1 style="color: blue; font-size:30px;" align="center">HEY I AM BHANU</h1>
-        <h1 style="color: green; font-size:30px;" align="center">NEXUS</h1>
+        <h1 style="color: blue; font-size:30px;" align="center">HEY I AM BABLU</h1>
+        <h1 style="color: green; font-size:30px;" align="center">MUSKO</h1>
+        <h1 style="color: green; font-size:30px;" align="center">PANDI</h1>
 </body>
 </html>
